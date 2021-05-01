@@ -1,0 +1,1 @@
+# react-senior-developer-checklist
