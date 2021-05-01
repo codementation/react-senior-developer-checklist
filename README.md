@@ -1,8 +1,4 @@
-Senior Frontend Developer
-==================
-
-Company practices
------------------
+# Senior Frontend Developer Checklist
 
 ### [Security](/Technical%20Stack/Frontend%20Developer/Company%20practices.md#security)
 
